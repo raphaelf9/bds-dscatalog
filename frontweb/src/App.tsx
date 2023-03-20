@@ -1,14 +1,11 @@
-import Navbar from 'components/Navbar/index';
 import './assets/styles/custom.scss';
 import './App.css';
+import Routes from 'Routes'
 
 function App() {
   return (
     <>
-      <Navbar />
-      <h1>
-        Seja bem vindo!
-      </h1>
+      <Routes />
     </>
   );
 }

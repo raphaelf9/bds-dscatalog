@@ -1,0 +1,9 @@
+.button-icon {
+  height: 50px;
+}
+
+.button-icon h6 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+}
